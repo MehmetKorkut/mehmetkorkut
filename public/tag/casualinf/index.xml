@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CasualInf | Hugo Portfolio Theme</title>
+    <link>https://mehmetkorkut.com/tag/casualinf/</link>
+      <atom:link href="https://mehmetkorkut.com/tag/casualinf/index.xml" rel="self" type="application/rss+xml" />
+    <description>CasualInf</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehmetkorkut.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>CasualInf</title>
+      <link>https://mehmetkorkut.com/tag/casualinf/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Temperature Rise on Electricity Consumption of Nordic Countries</title>
+      <link>https://mehmetkorkut.com/project/nordicenergy/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehmetkorkut.com/project/nordicenergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Factors Affecting Cypriots&#39; Pro-Environmental Behavior</title>
+      <link>https://mehmetkorkut.com/project/bachelorthesis/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mehmetkorkut.com/project/bachelorthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

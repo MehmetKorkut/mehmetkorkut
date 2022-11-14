@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datanlysis | Hugo Portfolio Theme</title>
+    <link>https://mehmetkorkut.com/tag/datanlysis/</link>
+      <atom:link href="https://mehmetkorkut.com/tag/datanlysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datanlysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mehmetkorkut.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Datanlysis</title>
+      <link>https://mehmetkorkut.com/tag/datanlysis/</link>
+    </image>
+    
+    <item>
+      <title>Anova and Post Hoc Test on R</title>
+      <link>https://mehmetkorkut.com/project/onewayanovaposthoc/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehmetkorkut.com/project/onewayanovaposthoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Changing Climate of Cyprus in the past 100 years</title>
+      <link>https://mehmetkorkut.com/project/soclosepointofnoreturn/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mehmetkorkut.com/project/soclosepointofnoreturn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify Dashboard</title>
+      <link>https://mehmetkorkut.com/project/spotify/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://mehmetkorkut.com/project/spotify/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
